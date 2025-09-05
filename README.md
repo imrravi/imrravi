@@ -1,7 +1,7 @@
 # 🗺️ Ravi Kant's Portfolio
 Welcome to my data portfolio! Here, I document a summary of my data projects.
 ## 📚 Table of Contents
-* [Microsoft Excel](https://github.com/imrravi/Microsoft-Excel)
+* [Microsoft Excel](https://github.com/imrravi#microsoft-excel)
 * Power BI
 * SQL
 * Python
