@@ -22,10 +22,10 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 # SQL
 |Project Link|Area of Analysis|Project Description|
 |------------|---------------|--------------------|
-|[🎬 Netflix Analysis Case Study](https://github.com/imrravi/SQL/tree/main/1.%20Netflix%20Analysis%20Case%20Study)|Data analysis, data transformation|I explore Netflix Originals data to answer questions about genres, ratings, runtimes, and release timelines using SQL and Power BI.|
-|[🎮Game Sales Across Regions and Platforms](https://github.com/imrravi/SQL/tree/main/2.%20Game%20Sales%20Across%20Regions%20and%20Platforms)|Aggregate Metrics, joins, and manipulation|I perform data management and analysis on game sales data, including CRUD operations and advanced queries with aggregate functions and joins to uncover sales insights.|
-|[🚢Titanic Passengers](https://github.com/imrravi/SQL/tree/main/3.%20Titanic%20Passengers)|Titanic Passenger analysis|Perform advanced data analysis on the Titanic dataset leveraging MySQL features such as subqueries, views, stored procedures, CTEs, and window functions for ranking and trend analysis.|
-|[🛒Walmart Stores](https://github.com/imrravi/SQL/tree/main/4.%20Walmart%20Stores)|Data Analysis|This file contains SQL solutions for the Walmart sales dataset. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.|
+|🎬[Netflix Analysis Case Study](https://github.com/imrravi/SQL/tree/main/1.%20Netflix%20Analysis%20Case%20Study)|Data analysis, data transformation|I explore Netflix Originals data to answer questions about genres, ratings, runtimes, and release timelines using SQL and Power BI.|
+|🎮[Game Sales Across Regions and Platforms](https://github.com/imrravi/SQL/tree/main/2.%20Game%20Sales%20Across%20Regions%20and%20Platforms)|Aggregate Metrics, joins, and manipulation|I perform data management and analysis on game sales data, including CRUD operations and advanced queries with aggregate functions and joins to uncover sales insights.|
+|🚢[Titanic Passengers](https://github.com/imrravi/SQL/tree/main/3.%20Titanic%20Passengers)|Titanic Passenger analysis|Perform advanced data analysis on the Titanic dataset leveraging MySQL features such as subqueries, views, stored procedures, CTEs, and window functions for ranking and trend analysis.|
+|🛒[Walmart Stores](https://github.com/imrravi/SQL/tree/main/4.%20Walmart%20Stores)|Data Analysis|This file contains SQL solutions for the Walmart sales dataset. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.|
 # Python
 |Project Link|Area|Project Description|Libraries|
 |------------|----|-------------------|---------|
