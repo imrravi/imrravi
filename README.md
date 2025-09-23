@@ -5,7 +5,7 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 * [Power BI](https://github.com/imrravi#power-bi)
 * [SQL](https://github.com/imrravi#sql)
 * [Python](https://github.com/imrravi/imrravi/blob/main/README.md#python)
-* [Machine Learning]
+* [Machine Learning](https://github.com/imrravi#machine-learning)
 * NLP
 # Microsoft Excel
 |Project Link|Completion Date|Tools|Project Description|
