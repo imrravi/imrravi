@@ -43,3 +43,6 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 |Project Link|Project Description|Libraries|
 |------------|-------------------|---------|
 |🏡[Airbnb Price](https://github.com/imrravi/Machine-Learning/blob/main/Project/Airbnb%20Price%20Prediction.ipynb)|Cleaned and transformed data with mean/frequency encoding, feature engineering, and outlier handling. Trained and compared multiple ML models, with XGBoost achieving the best R² and key features identified via importance analysis.|Python, Sci-kit|
+|🚶‍♀️[Customer Churn Prediction](https://github.com/imrravi/Machine-Learning/blob/main/Project/Customer%20Churn%20Prediction.ipynb)|Customer churn prediction using multiple ML models with data preprocessing, class imbalance handling, and churn probability prediction.|Pandas, numpy, scikit-learn metrics|
+
+---
