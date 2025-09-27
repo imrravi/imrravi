@@ -13,6 +13,7 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 |🛍️[Espresso Store Sales Data](https://github.com/imrravi/Microsoft-Excel/tree/main/1.Espresso%20Store%20Sales%20Data)|Mar 2025|Microsoft Excel|Performed data cleaning, analysis, scenario modeling, and visualization in Excel to derive business insights from sales and customer data.|
 |🏢[Employees & Department Data](https://github.com/imrravi/Microsoft-Excel/tree/main/2.Employee%20and%20Department%20Data)|Mar 2025|Microsoft Excel,PowerQuery|Performed HR and department data analysis in Excel using Power Query, Power Pivot, conditional formatting, macros, and formulas to derive salary insights, improve data management, and streamline departmental analysis.|
 |👤[KPMG Data Analysis](https://github.com/imrravi/Microsoft-Excel/tree/main/3.KPMG%20Data%20Analysis)|Apr 2025|Microsoft Excel,PowerQuery|Data cleaning, demographic segmentation, transaction trend analysis, and visualization in Excel to uncover customer behavior patterns, top-performing regions, and key growth opportunities.|
+|♻️[ESG](https://github.com/imrravi/Microsoft-Excel/tree/main/4.%20ESG)|Jun 2025|Microsoft Excel,PowerQuery|Evaluates a manufacturing company's environmental performance using emissions, operational, and supplier data, proposing a Net-Zero 2050 roadmap with process optimization, renewable energy adoption, and supplier engagement, integrating Life Cycle Assessment (LCA) into operations.|
 
 ---
 # Power BI
