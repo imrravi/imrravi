@@ -6,7 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 * [SQL](https://github.com/imrravi#sql)
 * [Python](https://github.com/imrravi/imrravi/blob/main/README.md#python)
 * [Machine Learning](https://github.com/imrravi#machine-learning)
-* [NLP]()
+* [NLP](https://github.com/imrravi#nlp)
 # Microsoft Excel
 |Project Link|Completion Date|Tools|Project Description|
 |------------|---------------|-----|-------------------|
