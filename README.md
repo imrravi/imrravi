@@ -6,7 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 * [SQL](https://github.com/imrravi#sql)
 * [Python](https://github.com/imrravi/imrravi/blob/main/README.md#python)
 * [Machine Learning](https://github.com/imrravi#machine-learning)
-* NLP
+* [NLP]()
 # Microsoft Excel
 |Project Link|Completion Date|Tools|Project Description|
 |------------|---------------|-----|-------------------|
@@ -47,3 +47,7 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 |🚶‍♀️[Customer Churn Prediction](https://github.com/imrravi/Machine-Learning/blob/main/Project/Customer%20Churn%20Prediction.ipynb)|Customer churn prediction using multiple ML models with data preprocessing, class imbalance handling, and churn probability prediction.|Pandas, numpy, scikit-learn metrics|
 
 ---
+# NLP
+|Project Link|Project Description|Libraries|
+|------------|-------------------|---------|
+|🎭[IMDb Movie Review Sentiment Analysis](https://github.com/imrravi/NLP/blob/main/Case%20Study/imdb-movie-review-sentiment-analysis.ipynb)|Movie review sentiment analysis using LSTM, BoW, TF-IDF, Word2Vec|tensorflow, nltk, sklearn|
