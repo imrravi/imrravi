@@ -51,3 +51,6 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 |Project Link|Project Description|Libraries|
 |------------|-------------------|---------|
 |🎭[IMDb Movie Review Sentiment Analysis](https://github.com/imrravi/NLP/blob/main/Case%20Study/imdb-movie-review-sentiment-analysis.ipynb)|Movie review sentiment analysis using LSTM, BoW, TF-IDF, Word2Vec|tensorflow, nltk, sklearn|
+|📰[News Article Classification](https://github.com/imrravi/NLP/blob/main/Case%20Study/News_Article_Classification.ipynb)|Classifies news articles into categories (sports, politics, technology) using Word2Vec embeddings and machine learning models like Logistic Regression and SVC.|NLTK, Gensim, Scikit-learn|
+
+---
