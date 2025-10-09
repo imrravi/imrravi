@@ -37,7 +37,7 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 |Project Link|Area|Project Description|Libraries|
 |------------|----|-------------------|---------|
 |🚙[Electric Vehicle Analysis](https://github.com/imrravi/Python/blob/main/1.%20Electric%20Vehicle%20Data%20Analysis/Electric%20Vehicle%20Analysis.ipynb)|Data Wrangling & EDA|Analysis on Electric Vehicle data to explore relationships between factors such as budget, range, battery capacity, engine power, Built recommendation system for top EV suggestions based on user inputs and Applied hypothesis testing to compare brand performance.|pandas,matplotlib,SciPy|
-|💲[Bitcoin Market Sentiment](https://github.com/imrravi/Python/blob/main/1.%20Electric%20Vehicle%20Data%20Analysis/Bitcoin%20Market%20Sentiment.ipynb)|Data Wrangling & EDA|Explored the relationship between trader performance and market sentiment, uncovered hidden patterns, and provided insights that could lead to better trading strategies.|pandas,matplotlib|
+|💲[Bitcoin Market Sentiment](https://github.com/imrravi/Python/blob/main/1.%20Electric%20Vehicle%20Data%20Analysis/Bitcoin_Market_Sentiment.ipynb)|Data Wrangling & EDA|Explored the relationship between trader performance and market sentiment, uncovered hidden patterns, and provided insights that could lead to better trading strategies.|pandas,matplotlib|
 
 ---
 # Machine Learning
