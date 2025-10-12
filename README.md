@@ -31,6 +31,7 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 |🎮[Game Sales Across Regions and Platforms](https://github.com/imrravi/SQL/tree/main/2.%20Game%20Sales%20Across%20Regions%20and%20Platforms)|Aggregate Metrics, joins, and manipulation|I perform data management and analysis on game sales data, including CRUD operations and advanced queries with aggregate functions and joins to uncover sales insights.|
 |🚢[Titanic Passengers](https://github.com/imrravi/SQL/tree/main/3.%20Titanic%20Passengers)|Titanic Passenger analysis|Perform advanced data analysis on the Titanic dataset leveraging MySQL features such as subqueries, views, stored procedures, CTEs, and window functions for ranking and trend analysis.|
 |🛒[Walmart Stores](https://github.com/imrravi/SQL/tree/main/4.%20Walmart%20Stores)|Data Analysis|This file contains SQL solutions for the Walmart sales dataset. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.|
+|🚚[Logistics Optimization for Delivery Routes - Amazon](https://github.com/imrravi/SQL/tree/main/5.%20Logistics%20Optimization%20for%20Delivery%20Routes%20%E2%80%93%20Amazon)|Supply Chain & Logistics|Analyzes order deliveries, routes, warehouses, and agent performance using advanced SQL queries. It focuses on optimizing delivery routes, identifying bottleneck warehouses, and improving on-time performance through KPI analysis.|
 
 ---
 # Python
