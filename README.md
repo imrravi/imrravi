@@ -3,6 +3,7 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 ## 📚 Table of Contents
 * [Microsoft Excel](https://github.com/imrravi#microsoft-excel)
 * [Power BI](https://github.com/imrravi#power-bi)
+* Tableau
 * [SQL](https://github.com/imrravi#sql)
 * [Python](https://github.com/imrravi/imrravi/blob/main/README.md#python)
 * [Machine Learning](https://github.com/imrravi#machine-learning)
@@ -24,6 +25,14 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 |🏫[Data Expenditure and Institution Analysis](https://github.com/imrravi/Power-BI/tree/main/3.Data%20Expenditure%20and%20Institution%20Analysis)|Apr 2025|Power BI,Power BI Service|Developed an interactive Power BI dashboard to analyze public expenditure, institutional performance, and global rankings across countries and years. Implemented advanced DAX calculations, dynamic filtering, data formatting, and multi-page visuals (Patents Analysis, Top Institutions, Expenditure Trends) to uncover insights into expenditure patterns, research output, and institutional rankings. Automated dataset refresh using Power BI Service for real-time reporting.|
 
 ---
+
+# Tableau
+|Project Link|Project Description|Dashboard Link|
+|------------|-------------------|--------------|
+|Human Resource Dashboard|This HR Dashboard provides in-depth insights into key human resource metrics, including employee demographics, resignation reason and performance evaluations.|[Dashboard](https://public.tableau.com/views/HumanResourceDashboard_17604206660500/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)|
+
+---
+
 # SQL
 |Project Link|Area of Analysis|Project Description|
 |------------|---------------|--------------------|
