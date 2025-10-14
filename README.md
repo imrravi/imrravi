@@ -3,7 +3,7 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 ## 📚 Table of Contents
 * [Microsoft Excel](https://github.com/imrravi#microsoft-excel)
 * [Power BI](https://github.com/imrravi#power-bi)
-* Tableau
+* [Tableau](https://github.com/imrravi#tableau)
 * [SQL](https://github.com/imrravi#sql)
 * [Python](https://github.com/imrravi/imrravi/blob/main/README.md#python)
 * [Machine Learning](https://github.com/imrravi#machine-learning)
@@ -29,7 +29,7 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 # Tableau
 |Project Link|Project Description|Dashboard Link|
 |------------|-------------------|--------------|
-|Human Resource Dashboard|This HR Dashboard provides in-depth insights into key human resource metrics, including employee demographics, resignation reason and performance evaluations.|[Dashboard](https://public.tableau.com/views/HumanResourceDashboard_17604206660500/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)|
+|[Human Resource Dashboard](https://github.com/imrravi/Tableau/tree/main/1.%20HR-Employee-Dataset)|This HR Dashboard provides in-depth insights into key human resource metrics, including employee demographics, resignation reason and performance evaluations.|[Dashboard](https://public.tableau.com/views/HumanResourceDashboard_17604206660500/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)|
 
 ---
 
