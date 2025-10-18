@@ -29,6 +29,7 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 # Tableau
 |Project Link|Project Description|Dashboard Link|
 |------------|-------------------|--------------|
+|Sales & Customer Dashboards|A comprehensive Tableau dashboard providing detailed insights into sales performance and customer analysis.|[Dashboard](https://public.tableau.com/views/SalesDashboard_17607236030190/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)|
 |The Health and Lifestyle Dashboard|This dashboard presents visualization of health and Lifestyle data. you can filter the charts based on Sleeping disorders. Thus providing valuable insights on how the behavior of individuals from different occupations is affected by sleeping disorders such as Sleep Apnea and Insomnia.|[Dashboard](https://public.tableau.com/views/TheHealthandLifestyleDashboard_17605023169140/Dashboard1?:language=enUS&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)|
 |[Human Resource Dashboard](https://github.com/imrravi/Tableau/tree/main/1.%20HR-Employee-Dataset)|This HR Dashboard provides in-depth insights into key human resource metrics, including employee demographics, resignation reason and performance evaluations.|[Dashboard](https://public.tableau.com/views/HumanResourceDashboard_17604206660500/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)|
 
